@@ -1,3 +1,4 @@
+<!-- membuat halaman admin -->
 <template>
   <div class="max-w-4xl mx-auto p-6">
     <h2 class="text-2xl font-bold mb-6 text-center">Manajemen Sparepart</h2>
