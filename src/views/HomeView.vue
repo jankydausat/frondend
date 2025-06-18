@@ -1,3 +1,4 @@
+<!-- membuat halaman home -->
 <template>
   <div class="min-h-screen bg-gray-100">
     <nav class="bg-white shadow sticky top-0 z-50">
